@@ -58,3 +58,23 @@ body {
     height: 80%;
 }
 
+.apresentacao__links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.apresentacao__links__botao {
+    background-color: aqua;
+    width: 500px;
+    color: black;    
+    text-align: center;
+    border-radius: 16px;
+    font-size: 16px;
+    padding: 15px;
+    text-decoration: none;
+    font-family: "Krona One", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 10px;
+}
+
